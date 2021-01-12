@@ -1,2 +1,7 @@
 # ReadMeJava
-Some Java Knowledge
+## JVM
+ByteCode Operation
+Class Loader -> load class
+JMM 
+JVM args
+GC &GC args & GC optimiaztion
